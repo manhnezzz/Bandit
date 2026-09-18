@@ -7,7 +7,9 @@ ssh -p 2220 bandit0@bandit.labs.overthewire.org
 ```
 ### *Explaination*
 ssh:The Secure Shell protocol used to securely connect to remote servers.
+
 -p 2220: set 2220 as the destination port for the connection.
+
 bandit0@bandit.labs.overthewire.org: The login credentials combining the username and the target remote hostname.
 
 After connecting successfully and entering the password, you will land in /home/bandit0.
